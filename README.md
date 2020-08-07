@@ -5,6 +5,7 @@ Laravel based application where a user can post can edit his own post. Any authe
 Project is created with:
 * Laravel Framework 7.23.0
 * Composer 1.10.10
+* MySQL 8.0.18
 * PHP 7.4.0
 * Bootstrap 4.5.2
  
@@ -21,7 +22,7 @@ Project is created with:
 > composer install
 ```
 
----
+--
 
 ## Contributing
 > To get started...
@@ -42,7 +43,7 @@ Project is created with:
 
 - 🔃 Create a new pull request using <a href="https://github.com/SKS-WAR/Blog/pulls" target="_blank">`https:/https://github.com/SKS-WAR/Blog/pulls`</a>.
 
----
+--
 
 ## Support
 
