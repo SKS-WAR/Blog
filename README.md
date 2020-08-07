@@ -22,7 +22,7 @@ Project is created with:
 > composer install
 ```
 
---
+---
 
 ## Contributing
 > To get started...
@@ -43,7 +43,7 @@ Project is created with:
 
 - 🔃 Create a new pull request using <a href="https://github.com/SKS-WAR/Blog/pulls" target="_blank">`https:/https://github.com/SKS-WAR/Blog/pulls`</a>.
 
---
+---
 
 ## Support
 
