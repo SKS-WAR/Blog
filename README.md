@@ -1,5 +1,5 @@
 # Blog
-Laravel based application where a user can post can edit his own post. Any authenticated user can view the all the posts and search for other users.
+A laravel based web-application developed to help organization build and maintain their alumni network by facilitating authenticity of every user,engagement, community-building, networking and  communication.
 
 ## Technologies
 Project is created with:

@@ -25,9 +25,9 @@
     </div>
     @endunless
     @auth
-        
+        <div class="row">
         @foreach($posts as $post)
-        <div class="list-group container">
+        <div class="list-group container col-8 ">
             @if ( $post->user->id === Auth::user()->id)
             <a href="{{ url('editPost/'.$post->id) }}" class="list-group-item list-group-item-action flex-column align-items-start active">
                 <div class="d-flex w-100 justify-content-between">
@@ -50,5 +50,6 @@
             @endif
             </div>
         @endforeach
+        </div>
     @endauth
 @endsection

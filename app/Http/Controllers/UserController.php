@@ -40,4 +40,9 @@ class UserController extends Controller
         // return $posts;
         return view('myPosts',['posts' => $posts]); 
     }
+
+    public function userPosts($id, Request $request){
+        $posts = Post::where('user_id',$id)->get()->reverse();
+        return view('myPosts',['posts' => $posts]);
+    }
 }

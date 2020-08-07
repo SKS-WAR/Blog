@@ -36,5 +36,6 @@ Route::post('/editPost/{id}','PostController@updatePost')->name('updatePost');
 Route::get('/deletePost','PostController@deletePost')->name('deletePost');
 
 Route::get('/searchUser/{id}','UserController@searchUser')->name('searchUser');
+Route::get('/userPosts/{id}','UserController@userPosts')->name('userPosts');
 
 Route::get('/myPosts','UserController@selfPosts')->name('myPosts');

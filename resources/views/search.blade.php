@@ -25,9 +25,9 @@
     </div>
     @endunless
     @auth
-        <div class="container">
+        <div class="container row">
             @foreach ($users as $user)
-                <div class=" container">
+                <div class=" container  col-6">
                     
                     <div class="card  mb-4 box-shadow">
                         <h3 class="mb-0 card-header">
@@ -38,7 +38,7 @@
                                 <div class="col-md-6 text-center text-md-left float-md-left">
                                     <p class="card-text mb-auto">Email ID : {{ $user->email }}</p>
                                     <p class="card-text mb-auto">ID: {{ $user->id }}</p>
-                                    <a href="#" >View Notes</a>
+                                    <a href="{{ url('userPosts/'.$user->id)}}" >View Notes</a>
                                 </div>
                                 <div class="col-md-6 text-center text-md-right float-md-right">
                                     <div class="mb-1 text-muted">Joined On : {{ $user->created_at }}</div>
