@@ -1,10 +1,13 @@
 # Blog
 Laravel based application where a user can post can edit his own post. Any authenticated user can view the all the posts and search for other users.
 
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
+## Technologies
+Project is created with:
+* Laravel Framework 7.23.0
+* Composer 1.10.10
+* PHP 7.4.0
+* Bootstrap 4.5.2
+ 
 
 ### Clone
 
