@@ -14,7 +14,7 @@ Laravel based application where a user can post can edit his own post. Any authe
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/SKS-WAR/Blog.git`
 
 ### Step 2
 
@@ -22,7 +22,7 @@ Laravel based application where a user can post can edit his own post. Any authe
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/SKS-WAR/Blog/pulls" target="_blank">`https:/https://github.com/SKS-WAR/Blog/pulls`</a>.
 
 ---
 
