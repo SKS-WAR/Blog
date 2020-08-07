@@ -21,6 +21,21 @@ Project is created with:
 ```shell
 > composer install
 ```
+>edit the .env file to connect to mysql server
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3308
+DB_DATABASE=blog
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+> to run the application
+
+```shell
+> php artisan serve
+```
 
 ---
 
