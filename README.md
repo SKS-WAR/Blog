@@ -39,9 +39,7 @@ DB_PASSWORD=
 
 > MySQL Database is present at
 
-```shell
 <a href="https://github.com/SKS-WAR/Blog/tree/master/_SQL" target="_blank">`https://github.com/SKS-WAR/Blog/tree/master/_SQL`</a>
-```
 
 ---
 
