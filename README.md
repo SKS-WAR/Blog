@@ -1,9 +1,24 @@
 # Blog
 Laravel based application where a user can post can edit his own post. Any authenticated user can view the all the posts and search for other users.
 
+## Installation
+
+- All the `code` required to get started
+- Images of what it should look like
+
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/SKS-WAR/Blog.git`
+
+### Setup
+
+> update and install this package first
+
+```shell
+> composer install
+```
+
+---
 
 ## Contributing
 > To get started...
