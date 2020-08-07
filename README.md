@@ -34,6 +34,8 @@ DB_PASSWORD=
 > to run the application
 
 ```shell
+> npm install
+> npm run dev
 > php artisan serve
 ```
 
