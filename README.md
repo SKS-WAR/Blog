@@ -34,10 +34,25 @@ DB_PASSWORD=
 > to run the application
 
 ```shell
+> npm install
+> npm run dev
 > php artisan serve
 ```
 
+> MySQL Database is present at
+
+<a href="https://github.com/SKS-WAR/Blog/tree/master/_SQL" target="_blank">`https://github.com/SKS-WAR/Blog/tree/master/_SQL`</a>
+
 ---
+
+### Live Demo :
+
+> This project is host at heroku
+
+
+
+---
+
 
 ## Contributing
 > To get started...
