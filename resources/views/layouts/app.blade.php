@@ -98,12 +98,12 @@
             if (event.keyCode === 13) {
                 event.preventDefault();
                 var path = document.getElementById("search").value;
-                window.location.href = "http://127.0.0.1:8000/searchUser/"+path;
+                window.location.href = "http://aluminnote.herokuapp.com/searchUser/"+path;
         }
         });
         function searchText() {
             var path = document.getElementById("search").value;
-            window.location.href = "http://127.0.0.1:8000/searchUser/"+path;
+            window.location.href = "http://aluminnote.herokuapp.com/searchUser/"+path;
         }
     </script>
 </body>
