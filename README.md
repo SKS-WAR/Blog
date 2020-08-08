@@ -39,7 +39,7 @@ DB_PASSWORD=
 > php artisan serve
 ```
 
-> MySQL Database is present at
+> Sample MySQL Database is present at
 
 <a href="https://github.com/SKS-WAR/Blog/tree/master/_SQL" target="_blank">`https://github.com/SKS-WAR/Blog/tree/master/_SQL`</a>
 
@@ -47,7 +47,7 @@ DB_PASSWORD=
 
 ### Live Demo :
 
-> This project is host at heroku
+> This project is hosted at heroku
 
 URL : <a href="http://aluminnote.herokuapp.com/" target="_blank">`http://aluminnote.herokuapp.com/`</a>
 
