@@ -21,7 +21,7 @@ Project is created with:
 ```shell
 > composer install
 ```
->edit the .env file to connect to mysql server
+>edit the .env file to connect to database server
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -49,7 +49,7 @@ DB_PASSWORD=
 
 > This project is host at heroku
 
-UR L: <a href="http://aluminnote.herokuapp.com/" target="_blank">`http://aluminnote.herokuapp.com/`</a>
+URL : <a href="http://aluminnote.herokuapp.com/" target="_blank">`http://aluminnote.herokuapp.com/`</a>
 
 * This is hosted for a trial basis.
 * This is using postresql as database.
