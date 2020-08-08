@@ -49,7 +49,10 @@ DB_PASSWORD=
 
 > This project is host at heroku
 
+UR L: <a href="http://aluminnote.herokuapp.com/" target="_blank">`http://aluminnote.herokuapp.com/`</a>
 
+* This is hosted for a trial basis.
+* This is using postresql as database.
 
 ---
 
